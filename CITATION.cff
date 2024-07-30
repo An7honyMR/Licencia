@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mateu, C."
+  given-names: "Mateu, C."
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Desarrollo de aplicaciones web."
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024
+url: "https://libros.metabiblioteca.org/server/api/core/bitstreams/a37985ce-f55b-49a6-9ac4-bff7d082cdbf/content"
+
+  Mateu, C. (2004). Desarrollo de aplicaciones web. Catalunya: Fundación para la Universitat Oberta de Catalunya, 2004..
